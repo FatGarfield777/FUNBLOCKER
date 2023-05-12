@@ -1,2 +1,2 @@
 # FUNBLOCKER
-A single bookmarklet to rule them all.
+A single userscript to rule them all.
