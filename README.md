@@ -1,2 +1,2 @@
 # FUNBLOCKER
-A simple bookmarklet to kill them all.
+A single bookmarklet to rule them all.
